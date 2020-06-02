@@ -1,0 +1,19 @@
+___ftneg: CODE, 3294 0 12
+_map: CODE, 3927 0 169
+___ftpack: CODE, 3638 0 123
+_WriteCommandToLCD: CODE, 3460 0 44
+_main: CODE, 924 0 1124
+___lwtoft: CODE, 3347 0 27
+_InitADC: CODE, 3 0 13
+___ftadd: CODE, 598 0 326
+___lwdiv: CODE, 3560 0 78
+_GetADCValue: CODE, 3504 0 56
+_InitLCD: CODE, 16 0 144
+_WriteDataToLCD: CODE, 3416 0 44
+___ftmul: CODE, 360 0 238
+_ToggleEpinOfLCD: CODE, 3322 0 25
+___wmul: CODE, 3374 0 42
+_ClearLCDScreen: CODE, 3306 0 16
+___fttol: CODE, 3761 0 166
+___ftdiv: CODE, 160 0 200
+Total: 2847
